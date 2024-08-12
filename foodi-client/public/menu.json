@@ -1,0 +1,62 @@
+[
+    
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Murgh Musallam",
+        "recipe": "Nawabi Tandoori with gravy of chicken kheema",
+        "image": "./images/recipes/murgh-musallam.jpg",
+        "category": "popular",
+        "price": 850
+    },
+
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Paneer Musallam",
+        "recipe": "Stuffed cheese in fried paneer pieces with gravy of chopped paneer",
+        "image": "./images/recipes/paneer-musallam.jpg",
+        "category": "popular",
+        "price": 320
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Chicken Mughlai",
+        "recipe": "gravy dish of 5-6 chicken pieces with mixture of eggs",
+        "image": "./images/recipes/chicken-mughlai.jpg",
+        "category": "popular",
+        "price": 280
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Chicken Malvani",
+        "recipe": "Chicken Fry with Curry",
+        "image": "./images/recipes/chicken-malvani.jpg",
+        "category": "popular",
+        "price": 560
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Jatra Mutton",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "./images/recipes/jatra-mutton.jpg",
+        "category": "popular",
+        "price": 720
+    },
+    
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Butter Chicken",
+        "recipe": "Gravy dish of Nawabi Tandoori pieces with mixture of butter",
+        "image": "./images/recipes/butter-chicken.jpg",
+        "category": "popular",
+        "price": 680
+    },
+    
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Veg Maratha",
+        "recipe": "Gravy dish of mixed veggies balls and mixture gravy of mix veg",
+        "image": "./images/recipes/veg-maratha.jpg",
+        "category": "popular",
+        "price": 260
+    }
+]
